@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Cannot use app compat at the same time as ActionBarSherlock -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--</style>-->
+
+</resources>

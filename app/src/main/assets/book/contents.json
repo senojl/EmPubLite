@@ -1,0 +1,70 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "chapters": [
+    {
+      "file": "0.htm",
+      "title": "Chapter 1"
+    },
+    {
+      "file": "1.htm",
+      "title": "Chapter 2"
+    },
+    {
+      "file": "2.htm",
+      "title": "Chapter 3"
+    },
+
+    {
+      "file": "3.htm",
+      "title": "Chapter 4"
+    },
+
+    {
+      "file": "4.htm",
+      "title": "Chapter 5"
+    },
+
+    {
+      "file": "5.htm",
+      "title": "Chapter 6"
+    },
+
+    {
+      "file": "6.htm",
+      "title": "Chapter 7"
+    },
+
+    {
+      "file": "7.htm",
+      "title": "Chapter 8"
+    },
+
+    {
+      "file": "8.htm",
+      "title": "Chapter 9"
+    },
+
+    {
+      "file": "9.htm",
+      "title": "Chapter 10"
+    },
+
+    {
+      "file": "10.htm",
+      "title": "Chapter 11"
+    },
+
+    {
+      "file": "11.htm",
+      "title": "Chapter 12"
+    },
+
+    {
+      "file": "12.htm",
+      "title": "Project Gutenberg Information"
+    }
+
+
+
+  ]
+}
